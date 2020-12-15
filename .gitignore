@@ -1,0 +1,9 @@
+node_modules
+
+.fable
+
+.ionide
+bin
+obj
+
+public
